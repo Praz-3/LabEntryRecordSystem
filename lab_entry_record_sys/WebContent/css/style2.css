@@ -1,0 +1,19 @@
+@charset "UTF-8";
+#success_message{ display: none;}
+body {
+  align: centre;
+  background: #993300; /* fallback for old browsers */
+  background: -webkit-linear-gradient(right, #993300, #cc3300);
+  background: -moz-linear-gradient(right, #993300, #cc3300);
+  background: -o-linear-gradient(right, #993300, #cc3300);
+  background: linear-gradient(to left, #993300, #cc3300);
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;      
+}
+.container {
+	
+  width: 720px;
+  padding: 2% 0 0;
+  margin: auto;
+}
